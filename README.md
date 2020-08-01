@@ -32,7 +32,7 @@ Resume Api uses a number of open source projects to work properly:
 
 * [Express] - fast node.js network app framework [https://github.com/expressjs/express]
 * [dotenv] - loads environment variables from a .env file [https://github.com/motdotla/dotenv]
-*
+
 ### Application structure
 * serve.js - The entry point of the application.
 * docker/ - This folder contains
