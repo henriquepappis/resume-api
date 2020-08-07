@@ -2,13 +2,14 @@
   "name": "resume-api",
   "version": "1.0.0",
   "description": "Resume Api",
-  "author": "Henrique Pappis <contact@henriquepappis.com>",
-  "main": "server.js",
+  "main": "src/server.js",
   "scripts": {
     "start": "node server",
     "start-dev": "nodemon server.js",
     "test": "echo \"Error: no test specified\" ** exit 1"
   },
+  "author": "Henrique Pappis <contact@henriquepappis.com>",
+  "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
     "dotenv": "8.2.0"
